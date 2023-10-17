@@ -2,5 +2,6 @@ school
 class
 home
 new
+
 lecture
 plus
