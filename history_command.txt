@@ -23,7 +23,8 @@
    23  git config --list
    24  git status 
    25  git init
-   26  git status
+change   
+26  git status
    27  ls
    28  pwd
    29  cd Downloads/
