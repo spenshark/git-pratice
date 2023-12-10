@@ -1,6 +1,0 @@
-world
-hello
-Worldecho world > b.txt
-world
-what
-pratice
