@@ -1,5 +1,4 @@
 # git-pratice
 ## Open Source SW pratice!!!
 
-수정이 되었을까요?
-현재 열심히 테스트 중
+피방에서 실험해보는 두근두근 깃허브

@@ -1,0 +1,6 @@
+total 7
+-rw-r--r-- 1 Administrator 197121  107 Dec 11 19:23 README.md
+-rw-r--r-- 1 Administrator 197121 1719 Dec 11 19:23 history_command.txt
+-rw-r--r-- 1 Administrator 197121    0 Dec 11 19:24 list.txt
+-rwxr-xr-x 1 Administrator 197121   76 Dec 11 19:23 myscript.sh*
+-rw-r--r-- 1 Administrator 197121   35 Dec 11 19:23 sorted_words.txt
